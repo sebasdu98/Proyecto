@@ -1,0 +1,53 @@
+
+section{
+	text-align: center;
+	margin-left: : .200em;
+}
+p{
+	color: #FFFFFF;
+	text-align: center;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+h1{
+	text-align: center;
+}
+h2{
+	text-align: center;
+	color: #000000;
+	margin-left: 0px;
+	margin-bottom: 0px;
+}
+.CV{
+	margin: auto;
+	background-color: #0101DF;
+}
+.Izquierda{
+	background-color: #FF0000;
+	float: left;
+}
+#info,#len,#lenP{
+	background-color: #000000;
+	margin-bottom: 40px;
+	font-size: 25px;
+}
+#Cu,#con{
+	background-color: #000000;
+	font-size: 25px;
+}
+#Cur{
+	background-color: #000000; 
+	color: #FFFFFF;
+	text-align: center;
+	margin-top: 40px;
+	margin-bottom: 40px;
+	font-size: 55px;
+}
+#Mi{
+	background-color: #000000;
+	font-size: 40px;
+}
+#esp{
+	color: #0101DF
+}
+
